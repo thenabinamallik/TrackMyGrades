@@ -1,4 +1,4 @@
-# PRD — TrackMyGrad (Student Academic Tracking System)
+# TrackMyGradeds (Student Academic Tracking System)
 
 ## 1. Summary
 TrackMyGrades is a web application for students to track academic progress, manage schedules, monitor attendance, and analyze performance. It is built with Next.js (App Router), TypeScript, Tailwind CSS, and shadcn/ui. Primary user is a student; optional admin manages academic content.
