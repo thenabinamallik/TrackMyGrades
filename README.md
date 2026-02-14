@@ -1,4 +1,4 @@
-# 🎓 TrackMyGrad - Student Academic Tracking System
+# 🎓 TrackMyGrade - Student Academic Tracking System
 
 A comprehensive web application built with Next.js for students to track their academic progress, manage schedules, monitor attendance, and analyze performance metrics in real-time.
 
@@ -91,8 +91,8 @@ iwr https://get.pnpm.io/install.ps1 -useb | iex
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Pravat006/student-academic-tracking-ui.git
-cd student-academic-tracking
+git clone https://github.com/thenabinamallik/TrackMyGrade.git
+cd TrackMyGrade
 ```
 
 ### 2. Install Dependencies
