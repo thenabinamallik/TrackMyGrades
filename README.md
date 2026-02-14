@@ -139,7 +139,7 @@ The page will auto-reload when you make changes to the code.
 ## 📁 Project Structure
 
 ```
-student-academic-tracking/
+TrackMyGrade/
 ├── app/                          # Next.js App Router pages
 │   ├── globals.css              # Global styles
 │   ├── layout.tsx               # Root layout
@@ -343,9 +343,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Pravat Kumar Sahoo**
-- GitHub: [@Pravat006](https://github.com/Pravat006)
-- Repository: [student-academic-tracking-ui](https://github.com/Pravat006/student-academic-tracking-ui)
+**Nabina Mallik**
+- GitHub: [@thenabinamallik](https://github.com/thenabinamallik)
+- Repository: [TrackMyGrade](https://github.com/thenabinamallik/TrackMyGrade)
 
 ## 🙏 Acknowledgments
 
